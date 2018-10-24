@@ -1,6 +1,6 @@
 {
-    "name": "ErrDefs",
-    "description": "Error code definitions for embedded c++",
+    "name": "Euhm",
+    "description": "Embedded Uncopyrighted HResult-compatible Macros",
     "include": "include",
     "build": {
         "flags": []
