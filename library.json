@@ -1,0 +1,8 @@
+{
+    "name": "Euhm",
+    "description": "Embedded Useful HResult-compatible Macros",
+    "include": "include",
+    "build": {
+        "flags": []
+    }
+}
